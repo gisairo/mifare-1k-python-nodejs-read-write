@@ -1,0 +1,8 @@
+New reader detected ACS ACR1251 1S CL Reader PICC 0
+New reader detected ACS ACR1251 1S CL Reader SAM 0
+Status( ACS ACR1251 1S CL Reader PICC 0 ): { state: 4063250, atr: <Buffer > }
+card removed
+Disconnected
+Status( ACS ACR1251 1S CL Reader SAM 0 ): { state: 18, atr: <Buffer > }
+card removed
+Disconnected
